@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "amplifywebinar-20180907155314-authRole",
+            "UnauthRoleArn": "arn:aws:iam::532236721166:role/amplifywebinar-20180907155314-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::532236721166:role/amplifywebinar-20180907155314-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplifywebinar-20180907155314-deployment",
+            "UnauthRoleName": "amplifywebinar-20180907155314-unauthRole",
+            "StackName": "amplifywebinar-20180907155314",
+            "StackId": "arn:aws:cloudformation:us-east-2:532236721166:stack/amplifywebinar-20180907155314/a9065f40-b2d7-11e8-85e5-0a75ca07fb9a"
+        }
+    }
+}

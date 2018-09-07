@@ -1,0 +1,11 @@
+{
+    "appName": "amplifywebinar",
+    "roleName": "pinpointLambdaRole31acb5c7",
+    "cloudWatchPolicyName": "cloudWatchPolicy31acb5c7",
+    "pinpointPolicyName": "pinpointPolicy31acb5c7",
+    "authPolicyName": "pinpoint_amplify_31acb5c7",
+    "unauthPolicyName": "pinpoint_amplify_31acb5c7",
+    "authRoleName": "amplifywebinar-20180907155314-authRole",
+    "unauthRoleName": "amplifywebinar-20180907155314-unauthRole",
+    "IAMPrefix": "532236721166"
+}
